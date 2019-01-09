@@ -1,3 +1,7 @@
+This is an interview challenge for front-end engineers.  It is a fork of the spring-pet-clinic-react project that has been modified to have more [vets](http://localhost:4444/vets) than should be displayed on a single page.
+
+The challenge is to have the candidate reason out how pagination should be implemented on the front end and the back end.
+
 # React Frontend for Spring Boot PetClinic demo
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-reactjs.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-reactjs)
 
